@@ -1,0 +1,15 @@
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/bin/Debug/net6.0/brysonjumper2
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/bin/Debug/net6.0/brysonjumper2.deps.json
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/bin/Debug/net6.0/brysonjumper2.runtimeconfig.json
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/bin/Debug/net6.0/brysonjumper2.dll
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/bin/Debug/net6.0/brysonjumper2.pdb
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.csproj.AssemblyReference.cache
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.AssemblyInfoInputs.cache
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.AssemblyInfo.cs
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.csproj.CoreCompileInputs.cache
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.dll
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/refint/brysonjumper2.dll
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.pdb
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/brysonjumper2.genruntimeconfig.cache
+/Users/brysonlaney/Documents/GitHub/brysonjumper2/obj/Debug/net6.0/ref/brysonjumper2.dll
